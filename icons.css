@@ -203,3 +203,7 @@ position: relative;
 .collection_img:hover{
   transform: translateY(-10px);
 }
+
+.fab{
+  cursor: pointer;
+}
